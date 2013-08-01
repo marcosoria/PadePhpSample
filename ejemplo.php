@@ -13,9 +13,9 @@ try{
 	
 	$params = new stdClass();
 	
-	$params->contrato = '7965dd70-bc0a-11e2-9e96-0800200c9a66';
-	$params->usuario = 'evoluware';
-	$params->passwd = 'B1234567890$';
+	$params->contrato = 'aaaaaa-bbbbb-ccccc-ddddd';
+	$params->usuario = 'usuario';
+	$params->passwd = 'contrasena123';
 	$params->cfdiXml = $xml->asXML();
 	$params->opciones = array('CALCULAR_SELLO');
 						
